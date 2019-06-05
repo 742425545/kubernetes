@@ -1,2 +1,0 @@
-#metrics-serve
-FROM k8s.gcr.io/r-amd64:v0.3.3
